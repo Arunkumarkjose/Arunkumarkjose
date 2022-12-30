@@ -1,4 +1,4 @@
-                                                           Hi there 👋 I am Arun Jose
+   # **Hi there 👋 I am Arun Jose**
 ---
                                                                  Web Developer 
  
@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning MongoDB, NodeJS
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 Reach me [Mail](mailto:arunkumarkjose@gmail.com)
 - ⚡ Fun fact: ...
 -->
